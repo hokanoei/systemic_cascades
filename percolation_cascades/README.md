@@ -1,0 +1,1 @@
+Codes simulating percolation cascades in randomly interdependent lattices in d-dimensions and 2-core in d-random hypergraphs. Results are shown in Fig.2 of the manuscript and datasets can be found in the repo_data.zip folder. 
